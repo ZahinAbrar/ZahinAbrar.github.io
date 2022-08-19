@@ -1,5 +1,5 @@
 ---
-title: "My First Paper Titlee"
+title: "My First Paper Titlee edited"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 12. The number 21 is left for future work.'
