@@ -12,6 +12,10 @@ I am a PhD candidate in Electrical Engineering in Ira A. Fulton Schools of Engin
 
 Before joining Arizona State University, I obtained my MSc in Electrical Engineering from Utah State University (USU) in 2019. In USU, my research was focused towards developing algorithms at the intersection of deep learning and statistical signal processing. I completed my undergraduate from Islamic University of Technology in 2014.
 
+Research Interests
+======
+Deep Learning, Recommendation systems, Statstical Machine Learning, Big Data Analytics, Graphical Models, and Information thoery. 
+
 <!--- This is an HTML comment in Markdown 
 
 A data-driven personal website
