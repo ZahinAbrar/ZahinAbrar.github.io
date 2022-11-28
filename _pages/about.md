@@ -12,8 +12,9 @@ I am a PhD candidate in Electrical Engineering in Ira A. Fulton Schools of Engin
 
 Before joining Arizona State University, I obtained my MSc in Electrical Engineering from Utah State University (USU) in 2019. In USU, my research was focused towards developing algorithms at the intersection of deep learning and statistical signal processing. I completed my undergraduate from Islamic University of Technology in 2014.
 
-<> (This is a comment, it will not be included A data-driven personal website
+<!--- This is an HTML comment in Markdown -->
 
+A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
