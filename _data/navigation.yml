@@ -8,13 +8,7 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-    <!--- This is an HTML comment in Markdown 
-  - title: "Portfolio"
-    url: /portfolio/
-    
-    -->
-        
+       
   - title: "Blog Posts"
     url: /year-archive/
     
