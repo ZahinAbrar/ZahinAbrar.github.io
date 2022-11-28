@@ -12,7 +12,7 @@ I am a PhD candidate in Electrical Engineering in Ira A. Fulton Schools of Engin
 
 Before joining Arizona State University, I obtained my MSc in Electrical Engineering from Utah State University (USU) in 2019. In USU, my research was focused towards developing algorithms at the intersection of deep learning and statistical signal processing. I completed my undergraduate from Islamic University of Technology in 2014.
 
-<!--- This is an HTML comment in Markdown -->
+<!--- This is an HTML comment in Markdown 
 
 A data-driven personal website
 ======
@@ -53,4 +53,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.)
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
