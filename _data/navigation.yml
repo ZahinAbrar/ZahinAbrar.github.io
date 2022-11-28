@@ -4,7 +4,10 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/ 
+    
+  - title: "Projects"
+    url: /projects/
 
   - title: "Teaching"
     url: /teaching/    
@@ -13,7 +16,5 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://ZahinAbrar.github.io/files/ResumeAbrarZahin.pdf
     
-  - title: "Guide"
-    url: /markdown/
