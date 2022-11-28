@@ -30,4 +30,4 @@ Published in Intermountain Engineering, Technology and Computing, 2020
 
 Abrar Zahin, Rose Qingyang Hu
 
-Publication Link: [Here]([https://dl.acm.org/doi/10.1145/3442338](https://ieeexplore.ieee.org/abstract/document/9249126))
+Publication Link: [Here](https://ieeexplore.ieee.org/abstract/document/9249126)
