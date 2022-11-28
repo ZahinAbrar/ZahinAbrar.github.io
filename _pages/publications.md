@@ -14,4 +14,4 @@ Posted on ArXiv.
 
 Abrar Zahin, Rajasekhar Anguluri, Oliver Kosut, Lalitha Sankar, Gautam Dasarathy
 
-Publication Link: [Here]([https://dl.acm.org/doi/abs/10.1145/3557915.3561036](https://arxiv.org/pdf/2211.05690.pdf?fbclid=IwAR2sm_U8klTkgB80E2sJnYfJ9wOGCXeg_5AVqkBdSn5KiYlTXZspH3pyn-I))
+Publication Link: [Here](https://arxiv.org/pdf/2211.05690.pdf)
