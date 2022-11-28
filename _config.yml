@@ -63,7 +63,8 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
+# For specifying social 
+s
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
@@ -81,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Abrar Zahin"
-  avatar           : "profile.png"
+  avatar           : "website_pic.jpg"
   bio              : "Ph.D. Candidate at Arizona State University"
   location         : "Tempe, Arizona"
   employer         :
