@@ -16,6 +16,10 @@ Research Interests
 ======
 Deep Learning, Recommendation systems, Statstical Machine Learning, Big Data Analytics, Graphical Models, and Information thoery. 
 
+
+
+In my spare time, I like to read about the history of mathematics and mathematicians, I also enjoy hiking, playing tennis and watching soccer.
+
 <!--- This is an HTML comment in Markdown 
 
 A data-driven personal website
