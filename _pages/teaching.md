@@ -8,34 +8,24 @@ author_profile: true
 
 Instructor
 ======
-I served as an instructor for the following course:
+I was as an instructor for the following course:
 
-Spatial Data Science & Engineering (CSE 594): Fall 2022
+Introduction to Computer Networking: Fall 2019
 ------
-It is a graduate Course at Arizona State University. I prepared all the lecture materials, assignments, and projects for this course. Besides, I also gave all the lectures in the class throughout the semester.
+It is a graduate Course at Utah State University. I prepared some lecture materials, assignments, and projects for this course. Besides, I was one of the instrucutors for this class.
 
 Teaching Associate
 ======
 I served as a TA for the following courses:
 
-Distributed Database Systems (CSE 512): Fall 2021, Spring 2021, Fall 2020, Spring 2020
+Introduction to Computer Networking: Fall 2019, Fall 2018.
 ------
-Graduate Course, Arizona State University
+Graduate Course, Utah State University
 
-Data Processing at Scale (CSE 511): Fall 2019
+Introduction to Digital Communication: Spring 2018
 ------
-Graduate Course, Arizona State University
+Graduate Course, Utah State University
 
-Object-Oriented Programming & Data Structure (CSE 205): Spring 2019
+Introduction to Wireless Communication: Spring 2019
 ------
-Undergraduate Course, Arizona State University
-
-Principles of Programming with C++ (CSE 100): Spring 2019
-------
-Undergraduate Course, Arizona State University
-
-Principles of Programming with Java & Python (CSE 110): Fall 2018
-------
-Undergraduate Course, Arizona State University
-
-
+Graduate Course, Utah State University
