@@ -44,7 +44,7 @@ Work Experience
 Important Courses
 ======
 * Relevant Graduate Courses
-  * Stochastic Processes, Random Signal Theory, Information Theory,  Mathematical Methods for Signals and Systems, Convex Optimization, Stastistical Machine Learning, Machine Learning for High Dimensions, Real Analysis Wireless & Mobile Networking, Advanced Wireless Communication, Reinforcement Learning. 
+  * Stochastic Processes, Random Signal Theory, Information Theory,  Mathematical Methods for Signals and Systems, Convex Optimization, Stastistical Machine Learning, Machine Learning for High Dimensions, Detection & Estimation Theory, Stochastic Modeling in Biology, Real Analysis, Wireless & Mobile Networking, Advanced Wireless Communication, Reinforcement Learning. 
 * Relevant Undergraduate Courses
   * Telecommunication Principles, Radio Frequency Engineering, Telecommunication Engineering, Advanced Communication Technique, Optical Communication, Digital Signal Processing, Discrete Mathematics and Numerical Analysis, Random Signals and Processes, Signals and Systems, Computer Programming, Database Concepts and Programming, Microprocessor and Assembly Language Programming, Peripherals and Microprocessor Based Design.
 
