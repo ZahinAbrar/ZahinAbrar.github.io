@@ -48,11 +48,11 @@ Brief description required
 
 Project Link: [Github Repository](https://github.com/ZahinAbrar/SVM-Classifier-with-Newtonian-Gradient-Descent-)
 
-Finding optimal policy using Policy Iteration for Gambling Problem
+Finding optimal policy using Policy Iteration for Electric Vehicle charging demand prediction.
 ------
 Brief description required
 
-Project Link: 
+Project Link: [Github Repository](https://github.com/ZahinAbrar/Policy-Iteration-for-Electric-Vehicle-charging-demand-prediction.)
 
 Implementing Q-learning for Monte-Carlo Blackjack Problem.
 ------
