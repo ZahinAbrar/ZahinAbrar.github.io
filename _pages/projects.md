@@ -72,6 +72,5 @@ Brief description required
 
 Project Link: [Github Repository](https://github.com/ZahinAbrar/Implementing-the-tabular-Q-learning-algorithm-for-three-standard-control-problem-mountain-car-cart-)
 
-
-* My other projects can be found on my 
------- *
+My other projects can be found on my 
+------
