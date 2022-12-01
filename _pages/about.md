@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD candidate in Electrical Engineering in Ira A. Fulton Schools of Engineering at Arizona State University. I am supervised by [Professor Dr. Gautam Dasarathy](https://www.public.asu.edu/~gdasarat/index.html). My research interest lies at the intersection of machine learning, signal processing, statistics, and information theory. My current research focuses on strcuture learning and robust model selection of graphical models.
 
-Before joining Arizona State University, I obtained my MSc in Electrical Engineering from Utah State University (USU) in 2019. In USU, my research was focused towards developing algorithms at the intersection of deep learning and statistical signal processing. I completed my undergraduate from Islamic University of Technology in 2014.
+Before joining Arizona State University, I obtained my MSc in Electrical Engineering from Utah State University (USU) in 2019, where I was supervised by [Professor Dr. Rose Qingyang Hu](https://engineering.usu.edu/ece/faculty-sites/rose-hu/research). During my time at USU, my research was focused towards developing algorithms at the intersection of deep learning and statistical signal processing. I completed my undergraduate from Islamic University of Technology in 2014.
 
 Research Interests
 ======
@@ -18,7 +18,7 @@ Deep Learning, Recommendation systems, Statstical Machine Learning, Big Data Ana
 
 
 
-In my spare time, I like to read about the history of mathematics and mathematicians, I also enjoy hiking, playing tennis and watching soccer.
+In my spare time, I enjoy reading allegorical and thriller novels, and two of my most favorite novelists are [Dan Brown](https://danbrown.com) and [Paula Hawkins](http://paulahawkinsbooks.com) I also enjoy playing tennis, watching soccer, and hiking in my spare time.
 
 <!--- This is an HTML comment in Markdown 
 
