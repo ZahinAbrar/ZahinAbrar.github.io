@@ -24,7 +24,7 @@ Project Link:
 
 Denoising images with Convolutional Autoencoder.
 ------
-Brief description required
+This Project demonstrates the implementation of a deep convolutional autoencoder for image denoising, mapping noisy digits images from the MNIST dataset to clean digits images. 
 
 Project Link: [Github Repository](https://github.com/ZahinAbrar/Denoising-images-with-Convolutional-Autoencoder.)
 
@@ -38,7 +38,8 @@ Project Link: [Github Repository](https://github.com/ZahinAbrar/Alternating-Dire
 
 Implementing Recurrent Neural Network (RNN) and Long Short Term Memory (LSTM) for Electric Vehicle charging demand prediction.
 ------
-Brief description required
+In this project I used RNN and LSTM to predict time series demand for a electric vehcile chargins station.
+charging station.
 
 Project Link:  [Github Repository](https://github.com/ZahinAbrar/RNN-and-LSTM-for-Electric-Vehicle-Charging-Demand-Prediction)
 
@@ -50,7 +51,10 @@ Project Link:
 
 Finding optimal policy using Policy Iteration for Electric Vehicle charging demand prediction.
 ------
-Brief description required
+Increasing growing of electricity demand and environmental issues bring huge incentives to electric vehicles (EVs) market. EVs will
+improve the functionalities of present power system. On the other hand, unscheduled high penetration of EVs may have detrimental effects on
+power system performance. This project studies the electric EV charging scheduling problem under a charging station scenario, aiming
+to offer an optimal policy to optimize the battery configuration based on load prediction.
 
 Project Link: [Github Repository](https://github.com/ZahinAbrar/Policy-Iteration-for-Electric-Vehicle-charging-demand-prediction.)
 
