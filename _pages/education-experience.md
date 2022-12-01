@@ -10,18 +10,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, 2018 - Present
+* Ph.D in Computer Science, 2020 - Present
   * Organization: Arizona State University
-  * Advisor: Professor Mohamed Sarwat
-  * Recepient of CIDSE Doctoral Fellowship award for the academic year 2018 - 2019
-* B.Sc. in Computer Science & Engineering, 2010 - 2014
-  * Organization: Chittagong University of Engineering & Technology
-  * Advisor: Professor Moshiul Hoque
-  * Thesis Title: Fuzzy Features based Online Handwritten Bangla Word Recognition Framework
-  * Recipient of Honors award for academic performance
-  * 2nd Runner-up at two national project competitions in Bangladesh: i) National Hackathon and ii) Mobile Application Code Hub in 2014
-  * Achieved 6th position at Inter University Programming Contest organized by my undergraduate university in 2012
-
+  * Advisor: Professor Guatm Dasarathy
+* M.Sc. in Electrcial Engineering, 2017 - 2019
+  * Organization: Utah State University
+  * Advisor: Professor Rose Qingyang Hu
+  * Thesis Title: Big Data Management for Secured Smart Healthcare System: A Machine Learning Framework.
+* B.Sc. in Electrcial Engineering, 2011 - 2014
+  * Organization: Islamic University of Technology
+  * Advisor: Professor Khandkar Habib
+  * Thesis Title: 
 Work Experience
 ======
 * Teaching & Research Assistant, Fall 2018 - Present
