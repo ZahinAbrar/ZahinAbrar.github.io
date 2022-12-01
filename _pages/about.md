@@ -18,7 +18,7 @@ Deep Learning, Recommendation systems, Statstical Machine Learning, Big Data Ana
 
 
 
-In my spare time, I enjoy reading allegorical and thriller novels, and two of my most favorite novelists are [Dan Brown](https://danbrown.com) and [Paula Hawkins](http://paulahawkinsbooks.com) I also enjoy playing tennis, watching soccer, and hiking in my spare time. If you like to chat, drop me a line via email.
+In my spare time, I enjoy reading allegorical and thriller novels, and two of my most favorite novelists are [Dan Brown](https://danbrown.com) and [Paula Hawkins](http://paulahawkinsbooks.com). I also enjoy playing tennis, watching soccer, and hiking in my spare time. If you like to chat, drop me a line via email.
 
 <!--- This is an HTML comment in Markdown 
 
