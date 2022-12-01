@@ -40,7 +40,7 @@ Implementing Recurrent Neural Network (RNN) and Long Short Term Memory (LSTM) fo
 ------
 Brief description required
 
-Project Link: 
+Project Link:  [Github Repository](https://github.com/ZahinAbrar/RNN-and-LSTM-for-Electric-Vehicle-Charging-Demand-Prediction)
 
 Classification of MNIST digit using Neural Network.
 ------
