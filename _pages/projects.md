@@ -38,7 +38,7 @@ Classification of MNIST digit using Neural Network.
 ------
 Brief description required
 
-Project Link: 
+Project Link: [Github Repository](https://github.com/ZahinAbrar/SVM-Classifier-with-Newtonian-Gradient-Descent-)
 
 Finding optimal policy using Policy Iteration for Gambling Problem
 ------
