@@ -46,13 +46,19 @@ Classification of MNIST digit using Neural Network.
 ------
 Brief description required
 
-Project Link: [Github Repository](https://github.com/ZahinAbrar/SVM-Classifier-with-Newtonian-Gradient-Descent-)
+Project Link: 
 
 Finding optimal policy using Policy Iteration for Electric Vehicle charging demand prediction.
 ------
 Brief description required
 
 Project Link: [Github Repository](https://github.com/ZahinAbrar/Policy-Iteration-for-Electric-Vehicle-charging-demand-prediction.)
+
+Support Vector Machine classifier
+------
+Brief description required
+
+Project Link: [Github Repository](https://github.com/ZahinAbrar/SVM-Classifier-with-Newtonian-Gradient-Descent-)
 
 Implementing Q-learning for Monte-Carlo Blackjack Problem.
 ------
