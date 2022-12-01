@@ -28,6 +28,14 @@ Brief description required
 
 Project Link: [Github Repository](https://github.com/ZahinAbrar/Denoising-images-with-Convolutional-Autoencoder.)
 
+Alternationg Direction Method of Multipliers.
+------
+Brief description required
+
+Project Link: [Github Repository](https://github.com/ZahinAbrar/Alternating-Direction-Method-Of-Multipliers)
+
+
+
 Implementing Recurrent Neural Network (RNN) and Long Short Term Memory (LSTM) for Electric Vehicle charging demand prediction.
 ------
 Brief description required
