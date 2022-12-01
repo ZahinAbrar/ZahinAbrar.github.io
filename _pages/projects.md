@@ -26,7 +26,7 @@ Denoising images with Convolutional Autoencoder.
 ------
 Brief description required
 
-Project Link: 
+Project Link: [Github Repository](https://github.com/ZahinAbrar/Denoising-images-with-Convolutional-Autoencoder.)
 
 Implementing Recurrent Neural Network (RNN) and Long Short Term Memory (LSTM) for Electric Vehicle charging demand prediction.
 ------
