@@ -10,7 +10,7 @@ author_profile: true
 Notable Projects
 ======
 
-Convolutional Neural Network for Human Action Recognition with Actitracker Dataset.
+<!-- Convolutional Neural Network for Human Action Recognition with Actitracker Dataset.
 ------
 Brief description required
 
@@ -20,7 +20,7 @@ Variational Autoencoder for reconstructing MNIST datasets.
 ------
 Brief description required
 
-Project Link:
+Project Link: -->
 
 Denoising images with Convolutional Autoencoder.
 ------
@@ -43,11 +43,11 @@ charging station.
 
 Project Link:  [Github Repository](https://github.com/ZahinAbrar/RNN-and-LSTM-for-Electric-Vehicle-Charging-Demand-Prediction)
 
-Classification of MNIST digit using Neural Network.
+<!-- Classification of MNIST digit using Neural Network.
 ------
 Brief description required
 
-Project Link: 
+Project Link:  -->
 
 Finding optimal policy using Policy Iteration for Electric Vehicle charging demand prediction.
 ------
@@ -64,11 +64,11 @@ Brief description required
 
 Project Link: [Github Repository](https://github.com/ZahinAbrar/SVM-Classifier-with-Newtonian-Gradient-Descent-)
 
-Implementing Q-learning for Monte-Carlo Blackjack Problem.
+<!-- Implementing Q-learning for Monte-Carlo Blackjack Problem.
 ------
 Brief description required
 
-Project Link: 
+Project Link:  -->
 
 Implementing the tabular Q-learning algorithm for three standard control problem mountain car, cart pole, and acrobat.
 ------
@@ -76,5 +76,5 @@ Brief description required
 
 Project Link: [Github Repository](https://github.com/ZahinAbrar/Implementing-the-tabular-Q-learning-algorithm-for-three-standard-control-problem-mountain-car-cart-)
 
-My other projects can be found on my 
-------
+<!-- My other projects can be found on my 
+------ -->
