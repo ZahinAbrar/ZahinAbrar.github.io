@@ -32,6 +32,6 @@ Published in Intermountain Engineering, Technology and Computing, 2020
 
 Abrar Zahin, Rose Qingyang Hu
 
-In this paper, we developed an energy-efficient framework for detecting \textit{fall actions} from surveillance videos by leveraging the concepts of \textit{compressive video sensing} and \textit{denoising autoencoder}. The proposed framework can be adopted in any IoT-based smart healthcare monitoring. 
+In this paper, we developed an energy-efficient framework for detecting \textit{fall actions} from surveillance videos by leveraging the concepts of compressive video sensing and denoising autoencoder. The proposed framework can be adopted in any IoT-based smart healthcare monitoring. 
 
 Publication Link: [Here](https://ieeexplore.ieee.org/abstract/document/9249126)
