@@ -39,24 +39,24 @@ Computational-Statistical Tradeoffs in learning Graphical models
 
 In this project we explore the computational statistical tradeoffs in structure learning of graphical models.
 
-Project Report: [pdf](https://ZahinAbrar.github.io/files/SML_Porject__ASU.pdf)
+Project Report: [Pdf](https://ZahinAbrar.github.io/files/SML_Porject__ASU.pdf)
 
 Structure Learning in Gaussian Graphical Models
 ------
 In this project, I breifly discussed some popular strcuture learning algorithms for Gaussian graphical models and their theoritical guratntees.
 
-Project Report: [pdf](https://ZahinAbrar.github.io/files/APM_Project__ASU.pdf)
+Project Report: [Pdf](https://ZahinAbrar.github.io/files/APM_Project__ASU.pdf)
 
 Tensor SVD: Statistical and Computational Limits
 
 Singular value decomposition (SVD) and principal component analysis has been an important tool in multivariate and high dimensional data analysis and have been thoroughly studied in the case of matrices, however they only capture first order interactions and ignore higher order ones. In this project we explore the statistical and computational limits for the Tensor SVD problem.
 
-Project Report: [pdf](https://ZahinAbrar.github.io/files/Tensor_SVD.pdf)
+Project Report: [Pdf](https://ZahinAbrar.github.io/files/Tensor_SVD.pdf)
 
 An Information-Theoritic Approach towards Understanding the Utility-privacy tradeoffs in databases.
 ------
 
-Project Report: [pdf](https://ZahinAbrar.github.io/files/Info_Theory__Project.pdf)
+Project Report: [Pdf](https://ZahinAbrar.github.io/files/Info_Theory__Project.pdf)
 
 
 Implementing Recurrent Neural Network (RNN) and Long Short Term Memory (LSTM) for Electric Vehicle charging demand prediction.
@@ -98,6 +98,14 @@ Implementing the tabular Q-learning algorithm for three standard control problem
 Brief description required
 
 Project Link: [Github Repository](https://github.com/ZahinAbrar/Implementing-the-tabular-Q-learning-algorithm-for-three-standard-control-problem-mountain-car-cart-)
+
+Balancing between Electric Vehicle Charging Station Income and Users Cost using Reinforcement Learning
+------
+
+Increasing growing of electricity demand and environmental issues bring huge incentives to electric vehicles (EVs) market. EVs will improve the functionalities of present power system. On the other hand, unscheduled high penetration of EVs may have detrimental effects on power system performance. This project studies the electric EV charging scheduling problem under a charging station scenario, aiming to offer an optimal policy to optimize the battery configuration based on load prediction.
+
+Project Report: [Pdf](https://ZahinAbrar.github.io/files/EV__Reinforcement_Learning.pdf)
+
 
 <!-- My other projects can be found on my 
 ------ -->
