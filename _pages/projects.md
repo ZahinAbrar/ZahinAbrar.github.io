@@ -53,6 +53,11 @@ Singular value decomposition (SVD) and principal component analysis has been an 
 
 Project Report: [pdf](https://ZahinAbrar.github.io/files/Tensor_SVD.pdf)
 
+An Information-Theoritic Approach towards Understanding the Utility-privacy tradeoffs in databases.
+------
+
+Project Report: [pdf](https://ZahinAbrar.github.io/files/Info_Theory__Project.pdf)
+
 
 Implementing Recurrent Neural Network (RNN) and Long Short Term Memory (LSTM) for Electric Vehicle charging demand prediction.
 ------
