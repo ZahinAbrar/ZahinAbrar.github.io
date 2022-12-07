@@ -41,6 +41,13 @@ In this project we explore the computational statistical tradeoffs in structure 
 
 Project Report: [pdf](https://ZahinAbrar.github.io/files/SML_Porject__ASU.pdf)
 
+Structure Learning in Gaussian Graphical Models
+------
+In this project, I breifly discussed some popular strcuture learning algorithms for Gaussian graphical models and their theoritical guratntees.
+
+Project Report: [pdf](https://ZahinAbrar.github.io/files/APM_Project__ASU.pdf)
+
+
 
 Implementing Recurrent Neural Network (RNN) and Long Short Term Memory (LSTM) for Electric Vehicle charging demand prediction.
 ------
