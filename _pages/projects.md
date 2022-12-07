@@ -37,8 +37,9 @@ Project Link: [Github Repository](https://github.com/ZahinAbrar/Alternating-Dire
 Computational-Statistical Tradeoffs in learning Graphical models
 ------
 
-In this project we explore the computational statistical tradeoffs in structure learning of graphical models. 
-Project Report: [pdf](https://ZahinAbrar.github.io/files/ResumeAbrarZahin.pdf)
+In this project we explore the computational statistical tradeoffs in structure learning of graphical models.
+
+Project Report: [pdf](https://ZahinAbrar.github.io/files/SML_Porject__ASU.pdf)
 
 
 Implementing Recurrent Neural Network (RNN) and Long Short Term Memory (LSTM) for Electric Vehicle charging demand prediction.
