@@ -53,7 +53,7 @@ Singular value decomposition (SVD) and principal component analysis has been an 
 
 Project Report: [Pdf](https://ZahinAbrar.github.io/files/Tensor_SVD.pdf)
 
-An Information-Theoritic Approach towards Understanding the Utility-privacy tradeoffs in databases.
+An Information-Theoritic Approach towards Understanding the Utility-privacy Tradeoffs in Databases.
 ------
 
 Project Report: [Pdf](https://ZahinAbrar.github.io/files/Info_Theory__Project.pdf)
