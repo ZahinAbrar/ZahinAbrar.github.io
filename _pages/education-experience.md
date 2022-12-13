@@ -24,7 +24,7 @@ Education
   
 Work Experience
 ======
-* Research Associate, Srping 2020 - Present
+* Research Associate, Spring 2020 - Present
   * Organization: Arizona State University
   * Location: Tempe, Arizona
   * Working on developing machine learning algorithms for structure learning of large-scale networked systems.
