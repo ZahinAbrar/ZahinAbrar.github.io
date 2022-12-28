@@ -43,7 +43,7 @@ Project Report: [Pdf](https://ZahinAbrar.github.io/files/SML_Porject__ASU.pdf)
 
 Structure Learning in Gaussian Graphical Models
 ------
-In this project, I breifly discussed some popular strcuture learning algorithms for Gaussian graphical models and their theoritical guratntees.
+In this project, I breifly discussed some popular structure learning algorithms for Gaussian graphical models and their theoretical guarantees.
 
 Project Report: [Pdf](https://ZahinAbrar.github.io/files/APM_Project__ASU.pdf)
 
@@ -53,7 +53,7 @@ Singular value decomposition (SVD) and principal component analysis has been an 
 
 Project Report: [Pdf](https://ZahinAbrar.github.io/files/Tensor_SVD.pdf)
 
-An Information-Theoritic Approach towards Understanding the Utility-privacy Tradeoffs in Databases.
+An Information-Theoretic Approach towards Understanding the Utility-privacy Tradeoffs in Databases.
 ------
 
 Project Report: [Pdf](https://ZahinAbrar.github.io/files/Info_Theory__Project.pdf)
@@ -83,7 +83,7 @@ Project Link: [Github Repository](https://github.com/ZahinAbrar/Policy-Iteration
 
 Support Vector Machine classifier
 ------
-Brief description required
+<!-- Brief description required -->
 
 Project Link: [Github Repository](https://github.com/ZahinAbrar/SVM-Classifier-with-Newtonian-Gradient-Descent-)
 
