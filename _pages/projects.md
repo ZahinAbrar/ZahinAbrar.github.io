@@ -28,11 +28,11 @@ This Project demonstrates the implementation of a deep convolutional autoencoder
 
 Project Link: [Github Repository](https://github.com/ZahinAbrar/Denoising-images-with-Convolutional-Autoencoder.)
 
-Alternationg Direction Method of Multipliers.
+<!-- Alternationg Direction Method of Multipliers.
 ------
 Brief description required
 
-Project Link: [Github Repository](https://github.com/ZahinAbrar/Alternating-Direction-Method-Of-Multipliers)
+Project Link: [Github Repository](https://github.com/ZahinAbrar/Alternating-Direction-Method-Of-Multipliers) -->
 
 Computational-Statistical Tradeoffs in learning Graphical models
 ------
