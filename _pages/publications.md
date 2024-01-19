@@ -7,6 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
+(https://ZahinAbrar.github.io/files/SML_Porject__ASU.pdf)
+
+Robust Model Selection of Non Tree-Structured Gaussian Graphical Models
+------
+Accepted at IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024.
+
+Abrar Zahin, Weizhi Li, Gautam Dasarathy
+
+In this paper, we consider the problem of change localization in the Gaussian graphical model, where it is known that a change has occurred in the underlying graph structure, and the goal is to localize the change rapidly. This paradigm occurs in various applications, from cyberphysical systems and biological networks to social networks and epidemiology. We introduce a novel algorithm, dubbed FOLk-DGM (Fast Online Localization in Dynamic Graphical Models), that is both computationally efficient and performs change localization with provably low latency (time elapsed before the change is localized). We present the theoretical properties of the algorithm and complement our theoretical results with experimental results.
+
+Publication Link: [Here](https://ZahinAbrar.github.io/files/SML_Porject__ASU.pdf)
+
 
 Robust Model Selection of Non Tree-Structured Gaussian Graphical Models
 ------
