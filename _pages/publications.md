@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-(https://ZahinAbrar.github.io/files/SML_Porject__ASU.pdf)
-
 Robust Model Selection of Non Tree-Structured Gaussian Graphical Models
 ------
 Accepted at IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024.
