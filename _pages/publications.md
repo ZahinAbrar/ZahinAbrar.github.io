@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Robust Model Selection of Non Tree-Structured Gaussian Graphical Models
+Rapid Change Localization in Dynamic Graphical Models
 ------
 Accepted at IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024.
 
