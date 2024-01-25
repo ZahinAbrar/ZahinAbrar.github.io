@@ -12,7 +12,7 @@ Education
 ======
 * Ph.D in Computer Science, 2020 - Present
   * Organization: Arizona State University
-  * Advisor: Professor Guatm Dasarathy
+  * Advisor: Professor Gautam Dasarathy
 * M.Sc. in Electrcial Engineering, 2017 - 2019
   * Organization: Utah State University
   * Advisor: Professor Rose Qingyang Hu
