@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Rapid Change Localization in Dynamic Graphical Models
+Computationally Efficient Active Learning of Gaussian Graphical Models
 ------
 Submitted to International Parallel and Distributed Processing Symposium (IPDPS), 2024.
 
