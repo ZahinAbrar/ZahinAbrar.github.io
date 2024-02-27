@@ -12,7 +12,7 @@ I am a PhD candidate in Electrical Engineering in Ira A. Fulton Schools of Engin
 
 Before joining Arizona State University, I obtained my MSc in Electrical Engineering from Utah State University (USU) in 2019, where I was supervised by [Professor Dr. Rose Qingyang Hu](https://engineering.usu.edu/ece/faculty-sites/rose-hu/research). I also actively worked with [Professor Dr. Le Thanh Tan](https://sites.google.com/site/thanhtantp?pli=1), who was then a post doc at USU. During my time at USU, my research was focused towards developing algorithms at the intersection of deep learning and statistical signal processing. I completed my undergraduate from Islamic University of Technology in 2014.
 
-My detailed CV and research statement can be found [here](https://ZahinAbrar.github.io/files/Resume_AbrarZahin.pdf) and here [here](https://ZahinAbrar.github.io/files/Research_Statement__Abrar_Zahin.pdf), respectively.
+My detailed CV and research statement can be found [here](https://ZahinAbrar.github.io/files/Resume_AbrarZahin.pdf) and [here](https://ZahinAbrar.github.io/files/Research_Statement__Abrar_Zahin.pdf), respectively.
 
 <!-- *I am looking for internship in summer 2023.* -->
 
