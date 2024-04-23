@@ -15,7 +15,9 @@ Abrar Zahin, Gautam Dasarathy
 
 The graphical model selection problem is vital in various applications and has garnered significant attention in recent years. In many applications traditional approaches face significant limitations as acquiring a large number of samples from the entire system concurrently often proves to be prohibitively expensive. For instance, in sensor networks, this requires expensive synchronization procedures across the sensors. In proteomics, it requires simultaneous tagging of a large number of proteins. While recent approaches have been proposed for efficiently and adaptively acquiring samples to overcome these difficulties, they suffer from prohibitive computational costs. Our paper introduces a novel algorithm that combines adaptive sample acquisition with a method based on a multiplicative weights update based meta-algorithm. We show that our algorithm enjoys significantly better computational efficiency while also being efficient in sample acquisition. 
 
-Publication Link: [Here](https://ZahinAbrar.github.io/files/Comp_Efficient_Active_Learning_of_GGMs__GrAPL_2024_.pdf)
+<!-- Publication Link: [Here](https://ZahinAbrar.github.io/files/Comp_Efficient_Active_Learning_of_GGMs__GrAPL_2024_.pdf) -->
+
+
 
 Rapid Change Localization in Dynamic Graphical Models
 ------
