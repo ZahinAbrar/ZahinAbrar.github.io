@@ -9,7 +9,7 @@ author_profile: true
 
 Computationally Efficient Active Learning of Gaussian Graphical Models
 ------
-Submitted to International Parallel and Distributed Processing Symposium (IPDPS), 2024.
+Accepted at Asilomar Conference on Signals, Systems, and Computers, 2024.
 
 Abrar Zahin, Gautam Dasarathy
 
