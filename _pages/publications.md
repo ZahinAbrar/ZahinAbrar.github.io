@@ -30,7 +30,7 @@ In this paper, we consider the problem of change localization in the Gaussian gr
 Publication Link: [Here](https://ZahinAbrar.github.io/files/ICASSP_FOLk_DGM_CameraReady.pdf)
 
 
-Robust Model Selection of Non Tree-Structured Gaussian Graphical Models
+Robust Model Selection of Gaussian Graphical Models
 ------
 Posted on ArXiv.
 
