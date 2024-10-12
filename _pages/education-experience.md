@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, 2020 - Present
+* Ph.D in Electrical Engineering, 2020 - Present
   * Organization: Arizona State University
   * Advisor: Professor Gautam Dasarathy
 * M.Sc. in Electrcial Engineering, 2017 - 2019
