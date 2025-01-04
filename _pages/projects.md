@@ -64,8 +64,7 @@ Project Report: [Pdf](https://ZahinAbrar.github.io/files/Info_Theory__Project.pd
 
 Implementing Recurrent Neural Network (RNN) and Long Short Term Memory (LSTM) for Electric Vehicle charging demand prediction.
 ------
-In this project I used RNN and LSTM to predict time series demand for a electric vehcile chargins station.
-charging station.
+In this project, I implemented Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) models to predict Electric Vehicle (EV) charging demand. The focus was on capturing temporal dependencies in the data to accurately forecast charging requirements. Key steps included preprocessing time-series data, designing and training deep learning models, and evaluating their performance to optimize predictions for real-world applications.
 
 Project Link:  [Github Repository](https://github.com/ZahinAbrar/RNN-and-LSTM-for-Electric-Vehicle-Charging-Demand-Prediction)
 
