@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 
-Notable Projects
+Notable Projects 
 ======
 
 <!-- Convolutional Neural Network for Human Action Recognition with Actitracker Dataset.
@@ -37,7 +37,7 @@ Project Link: [Github Repository](https://github.com/ZahinAbrar/Alternating-Dire
 Computational-Statistical Tradeoffs in learning Graphical models
 ------
 
-In this project we explore the computational statistical tradeoffs in structure learning of graphical models.
+In this project, I investigated the computational-statistical tradeoffs involved in learning graphical models, focusing on balancing algorithmic efficiency with statistical accuracy. The work involved developing methods that optimize learning performance under resource constraints while ensuring robust representation of underlying data dependencies. Key contributions included theoretical analyses and the implementation of scalable algorithms for structured learning tasks.
 
 Project Report: [Pdf](https://ZahinAbrar.github.io/files/SML_Porject__ASU.pdf)
 
