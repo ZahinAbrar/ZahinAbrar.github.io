@@ -56,6 +56,8 @@ Project Report: [Pdf](https://ZahinAbrar.github.io/files/Tensor_SVD.pdf)
 An Information-Theoretic Approach towards Understanding the Utility-privacy Tradeoffs in Databases.
 ------
 
+In this project, I explored the utility-privacy tradeoff in databases through an information-theoretic lens. The study focused on (theortically) quantifying how privacy-preserving mechanisms impact the utility of shared data, aiming to develop frameworks that balance these conflicting objectives. Key aspects included analyzing privacy constraints, designing mechanisms with provable guarantees, and applying theoretical insights to real-world database scenarios.
+
 Project Report: [Pdf](https://ZahinAbrar.github.io/files/Info_Theory__Project.pdf)
 
 
