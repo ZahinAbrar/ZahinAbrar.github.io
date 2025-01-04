@@ -101,6 +101,8 @@ Implementing the tabular Q-learning algorithm for three standard control problem
 ------
 <!-- Brief description required -->
 
+In this project, I implemented the tabular Q-learning algorithm to solve three standard control problems: Mountain Car, Cart Pole, and Acrobot. The work involved designing state-action value tables, updating policies using the Q-learning update rule, and evaluating the algorithm's performance in achieving optimal control across these environments. Key challenges included balancing exploration and exploitation and handling the complexity of continuous state spaces.
+
 Project Link: [Github Repository](https://github.com/ZahinAbrar/Implementing-the-tabular-Q-learning-algorithm-for-three-standard-control-problem-mountain-car-cart-)
 
 Balancing between Electric Vehicle Charging Station Income and Users Cost using Reinforcement Learning
