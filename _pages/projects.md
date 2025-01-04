@@ -48,6 +48,7 @@ In this project, I breifly discussed some popular structure learning algorithms 
 Project Report: [Pdf](https://ZahinAbrar.github.io/files/APM_Project__ASU.pdf)
 
 **Tensor SVD: Statistical and Computational Limits**
+------
 
 Singular value decomposition (SVD) and principal component analysis has been an important tool in multivariate and high dimensional data analysis and have been thoroughly studied in the case of matrices, however they only capture first order interactions and ignore higher order ones. In this project we explore the statistical and computational limits for the Tensor SVD problem.
 
