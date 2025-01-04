@@ -85,6 +85,8 @@ Support Vector Machine classifier
 ------
 <!-- Brief description required -->
 
+The focus of this project is to utilize SVM's ability to maximize the margin between data classes, ensuring robust generalization and accurate predictions. Key steps included feature selection, kernel optimization, and hyperparameter tuning to achieve optimal performance.
+
 Project Link: [Github Repository](https://github.com/ZahinAbrar/SVM-Classifier-with-Newtonian-Gradient-Descent-)
 
 <!-- Implementing Q-learning for Monte-Carlo Blackjack Problem.
