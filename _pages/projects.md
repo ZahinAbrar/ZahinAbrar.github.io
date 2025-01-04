@@ -24,7 +24,7 @@ Project Link: -->
 
 Denoising images with Convolutional Autoencoder.
 ------
-This Project demonstrates the implementation of a deep convolutional autoencoder for image denoising, mapping noisy digits images from the MNIST dataset to clean digits images. 
+In this project, I utilized Convolutional Autoencoders to denoise images by learning efficient low-dimensional representations. The model was trained to reconstruct clean images from noisy inputs, leveraging convolutional layers to capture spatial features. Key steps included dataset preparation, network architecture design, and performance evaluation using metrics such as PSNR and SSIM to ensure high-quality image restoration.
 
 Project Link: [Github Repository](https://github.com/ZahinAbrar/Denoising-images-with-Convolutional-Autoencoder.)
 
