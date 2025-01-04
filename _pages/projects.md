@@ -43,7 +43,7 @@ Project Report: [Pdf](https://ZahinAbrar.github.io/files/SML_Porject__ASU.pdf)
 
 Structure Learning in Gaussian Graphical Models
 ------
-In this project, I breifly discussed some popular structure learning algorithms for Gaussian graphical models and their theoretical guarantees.
+In this project, I explored various popular algorithms for Gaussian graphical model structure learning. The focus was on evaluating methodologies used to identify conditional independence relationships and estimate sparse precision matrices, particularly in high-dimensional data settings. The study aimed to provide insights into the strengths and limitations of these approaches.
 
 Project Report: [Pdf](https://ZahinAbrar.github.io/files/APM_Project__ASU.pdf)
 
