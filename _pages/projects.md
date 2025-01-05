@@ -10,7 +10,7 @@ author_profile: true
 Notable Projects 
 ======
 
-<!-- Convolutional Neural Network for Human Action Recognition with Actitracker Dataset.
+<!-- Convolutional Neural Network for Human Action Recognition with Actitracker Dataset
 ------
 Brief description required
 
