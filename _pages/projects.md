@@ -28,15 +28,14 @@ Diffusion Model API: A Full-Stack ML Deployment Project.
 
 In this project, I built and deployed a complete text-to-image generation pipeline using a diffusion model. The backend was implemented using FastAPI to expose a RESTful API that receives user prompts and generates corresponding images using a pretrained Hugging Face diffusion model. The service was containerized with Docker for portability and deployed using Kubernetes for scalability, high availability, and GPU-based inference support. A simple web interface was integrated with the backend to allow users to submit prompts and view generated images in real time. The project demonstrates my ability to combine deep learning, API engineering, DevOps tooling, and scalable deployment into a unified full-stack ML application.
 
-Project Link: [Code](https://github.com/ZahinAbrar/Text-to-Image-Generation)
+Project Link: [Github Repository](https://github.com/ZahinAbrar/Text-to-Image-Generation)
 
 Text Summarization API: A Full-Stack ML Deployment Project.
 ------
 
 This project demonstrates the deployment of a Hugging Face transformer-based text summarization model as a scalable microservice. I used FastAPI to develop a clean RESTful API that accepts raw text and returns a concise summary. The application was containerized using Docker to ensure portability across environments and deployed to a Kubernetes cluster for production-grade orchestration. Features such as horizontal pod autoscaling, load balancing, and rolling updates were included to ensure high availability and performance under load. This project showcases my ability to build and deploy practical NLP systems with real-time inference capabilities using modern MLOps tools.
 
-Project Link: [Code](https://github.com/ZahinAbrar/Text-to-Image-Generation)
-
+Project Link: [Github Repository](https://github.com/ZahinAbrar/Text-to-Image-Generation)
 
 
 Denoising images with Convolutional Autoencoder.
