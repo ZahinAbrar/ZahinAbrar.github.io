@@ -12,7 +12,7 @@ I am a PhD candidate in Electrical Engineering in Ira A. Fulton Schools of Engin
 
 Before joining Arizona State University, I obtained my MSc in Electrical Engineering from Utah State University (USU) in 2019, where I was supervised by [Professor Dr. Rose Qingyang Hu](https://engineering.usu.edu/ece/faculty-sites/rose-hu/research). I also actively worked with [Professor Dr. Le Thanh Tan](https://sites.google.com/site/thanhtantp?pli=1), who was then a post doc at USU. During my time at USU, my research was focused towards developing algorithms at the intersection of deep learning and statistical signal processing. I completed my undergraduate from Islamic University of Technology in 2014.
 
-My resume and research statement can be found [here](https://ZahinAbrar.github.io/files/ResumeAZ_rs.pdf) and [here](https://ZahinAbrar.github.io/files/Research_Statement__Abrar_Zahin.pdf), respectively.
+My resume and research statement can be found [here](https://ZahinAbrar.github.io/files/ResumeAZ.pdf) and [here](https://ZahinAbrar.github.io/files/Research_Statement__Abrar_Zahin.pdf), respectively.
 
 <!-- *I am looking for internship in summer 2023.* -->
 
@@ -22,7 +22,7 @@ Deep Learning, Recommendation systems, Statstical Machine Learning, Big Data Ana
  -->
 
 
-In my spare time, I enjoy reading allegorical and thriller novels, and two of my most favorite novelists are [Dan Brown](https://danbrown.com) and [Paula Hawkins](http://paulahawkinsbooks.com). I also enjoy playing tennis, watching soccer, and hiking in my spare time. If you like to chat or play tennis, drop me a line via email.
+In my spare time, I enjoy reading allegorical and thriller novels, and two of my most favorite novelists are [Dan Brown](https://danbrown.com) and [Paula Hawkins](http://paulahawkinsbooks.com). I also enjoy playing tennis (albeit not very well) and deeply admire [Novak Djokovic](https://en.wikipedia.org/wiki/Novak_Djokovic) for his champion mindset. I’ve watched his [Wimbledon 2019 final](https://www.youtube.com/watch?v=TUikJi0Qhhw&t=16926s) and [2024 Olympic final](https://www.youtube.com/watch?v=_M6cRuJqIBs) an unhealthy number of times.
 
 <!--- This is an HTML comment in Markdown 
 
