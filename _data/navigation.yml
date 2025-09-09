@@ -14,9 +14,6 @@ main:
     url: /publications/
 
   - title: "Blog Posts"
-    url: _pages/2 min read
-
-  - title: "Talks"
     url: /talks/ 
  
     
