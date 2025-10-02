@@ -33,9 +33,9 @@ Project Link: [Github Repository](https://github.com/ZahinAbrar/Text-to-Image-Ge
 Text Summarization API: A Full-Stack ML Deployment Project.
 ------
 
-This project demonstrates the deployment of a Hugging Face transformer-based text summarization model as a scalable microservice. I used FastAPI to develop a clean RESTful API that accepts raw text and returns a concise summary. The application was containerized using Docker to ensure portability across environments and deployed to a Kubernetes cluster for production-grade orchestration. Features such as horizontal pod autoscaling, load balancing, and rolling updates were included to ensure high availability and performance under load. This project showcases my ability to build and deploy practical NLP systems with real-time inference capabilities using modern MLOps tools.
+This project demonstrates the deployment of a Hugging Face transformer-based text summarization model as a scalable microservice. I used FastAPI to develop a clean RESTful API that accepts raw text and returns a concise summary. The application was containerized using Docker to ensure portability across environments and deployed to a Kubernetes cluster for production-grade orchestration. This project showcases my ability to build and deploy practical NLP systems with real-time inference capabilities using modern MLOps tools.
 
-Project Link: [Github Repository](https://github.com/ZahinAbrar/Text-to-Image-Generation)
+Project Link: [Github Repository](https://github.com/ZahinAbrar/Text-Summarization)
 
 
 Denoising images with Convolutional Autoencoder.
