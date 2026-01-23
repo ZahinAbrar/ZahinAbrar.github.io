@@ -86,3 +86,30 @@ h1, h2, h3, h4, h5, h6,
   font-family: "Source Serif 4", Georgia, "Times New Roman", serif !important;
 }
 
+/* ===== FORCE fonts (AcademicPages / Minimal Mistakes wrappers) ===== */
+
+/* Body everywhere */
+html, body,
+.page, .initial-content,
+.page__content, .archive,
+.sidebar, .masthead, .page__footer,
+p, li, td, th, blockquote, figcaption,
+button, input, select, textarea {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+}
+
+/* Headings + titles */
+h1, h2, h3, h4, h5, h6,
+.page__title,
+.archive__item-title,
+.archive__item-title a,
+.masthead__menu-item a,
+.author__name,
+.site-title {
+  font-family: "Source Serif 4", Georgia, "Times New Roman", serif !important;
+  font-weight: 600 !important;
+  letter-spacing: -0.01em;
+}
+
+
