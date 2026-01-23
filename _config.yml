@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abrar Zahin"
+title                    : "Abrar Zahin Test"
 minimal_mistakes_skin    : "dark"
 title_separator          : "-"
 name                     : &name "Your Name"
