@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Abrar Zahin"
-minimal_mistakes_skin    : "dark"
+minimal_mistakes_skin    : "default"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
