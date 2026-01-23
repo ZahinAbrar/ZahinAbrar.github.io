@@ -16,8 +16,8 @@ main:
   - title: "Blog"
     url: /posts/
 
-#  - title: "Blog Posts"
-#    url: /talks/
+ - title: "Blog Posts"
+   url: /talks/
 
     
         
