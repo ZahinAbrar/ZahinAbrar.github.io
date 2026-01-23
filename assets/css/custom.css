@@ -1,5 +1,8 @@
 /* Dark theme override (AcademicPages/Jekyll) */
 
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Source+Serif+4:wght@400;600;700&display=swap");
+
+
 :root { color-scheme: dark; }
 
 html, body {
@@ -66,5 +69,20 @@ h1, h2, h3, h4, h5, h6,
 .author__bio {
   font-family: "Inter", sans-serif !important;
   font-size: 0.95rem;
+}
+
+/* ===== Typography: Inter (body) + Source Serif 4 (headings) ===== */
+
+html, body, button, input, select, textarea {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6,
+.page__title,
+.archive__item-title,
+.masthead__menu-item,
+.author__name {
+  font-family: "Source Serif 4", Georgia, "Times New Roman", serif !important;
 }
 
