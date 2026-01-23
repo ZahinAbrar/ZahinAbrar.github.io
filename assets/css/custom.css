@@ -1,0 +1,36 @@
+/* Dark theme override (AcademicPages/Jekyll) */
+
+:root { color-scheme: dark; }
+
+html, body {
+  background: #0b0f14 !important;
+  color: #e6edf3 !important;
+}
+
+a { color: #7aa2ff !important; }
+a:hover { color: #a9c1ff !important; }
+
+.masthead, .page__footer {
+  background: #0b0f14 !important;
+  border-color: rgba(255,255,255,0.08) !important;
+}
+
+.page__content, .archive, .sidebar {
+  background: transparent !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #e6edf3 !important;
+}
+
+.page__content p, .page__content li {
+  color: #c9d1d9 !important;
+}
+
+hr { border-color: rgba(255,255,255,0.10) !important; }
+
+/* Optional: subtle surfaces */
+.archive__item, .toc, .notice {
+  background: rgba(255,255,255,0.03) !important;
+  border-color: rgba(255,255,255,0.08) !important;
+}
