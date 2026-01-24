@@ -102,7 +102,7 @@ to offer an optimal policy to optimize the battery configuration based on load p
 
 Project Link: [Github Repository](https://github.com/ZahinAbrar/Policy-Iteration-for-Electric-Vehicle-charging-demand-prediction.)
 
-Support Vector Machine classifier
+Support Vector Machine Classifier
 ------
 <!-- Brief description required -->
 
