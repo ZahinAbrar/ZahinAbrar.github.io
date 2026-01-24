@@ -50,12 +50,13 @@ Brief description required
 
 Project Link: [Github Repository](https://github.com/ZahinAbrar/Alternating-Direction-Method-Of-Multipliers) -->
 
-Computational-Statistical Tradeoffs in learning Graphical models
+Computational-Statistical Tradeoffs in Learning Graphical models
 ------
 
 In this project, I investigated the computational-statistical tradeoffs involved in learning graphical models, focusing on balancing algorithmic efficiency with statistical accuracy. The work involved developing methods that optimize learning performance under resource constraints while ensuring robust representation of underlying data dependencies. Key contributions included theoretical analyses and the implementation of scalable algorithms for structured learning tasks.
 
-Project Report: [Pdf](https://ZahinAbrar.github.io/files/SML_Porject__ASU.pdf)
+Project Report: [Pdf](https://ZahinAbrar.github.io/files/Computational_Statistical_Tradeoffs_in_learning_Graphical_models_preprints.pdf
+)
 
 Structure Learning in Gaussian Graphical Models
 ------
@@ -68,7 +69,7 @@ Project Report: [Pdf](https://ZahinAbrar.github.io/files/APM_Project__ASU.pdf)
 
 Singular value decomposition (SVD) and principal component analysis has been an important tool in multivariate and high dimensional data analysis and have been thoroughly studied in the case of matrices, however they only capture first order interactions and ignore higher order ones. In this project we explore the statistical and computational limits for the Tensor SVD problem.
 
-Project Report: [Pdf](https://ZahinAbrar.github.io/files/Tensor_SVD.pdf)
+Project Report: [Pdf](https://ZahinAbrar.github.io/files/Tensor_SVD__Statistical_and_Computational_limits_final_preprint.pdf)
 
 An Information-Theoretic Approach towards Understanding the Utility-privacy Tradeoffs in Databases.
 ------
