@@ -33,7 +33,7 @@ Publication Link: [Here](https://ZahinAbrar.github.io/files/ICASSP_FOLk_DGM_Came
 
 Robust Model Selection of Gaussian Graphical Models
 ------
-Accepted at Transaction of Machine Learning Research.
+Accepted at Transactions on Machine Learning Research, 2025.
 
 Abrar Zahin, Rajasekhar Anguluri, Oliver Kosut, Lalitha Sankar, Gautam Dasarathy
 
@@ -41,7 +41,7 @@ In this paper, we consider the problem of learning the structure of non tree-str
 
 Publication Link: [Here](https://ZahinAbrar.github.io/files/RMS_GBT_TMLR__Accepted_Copy_.pdf)
 
-Sensor-based human activity recognition for smart healthcare: A semi-supervised machine learning
+Sensor-based Human Activity Recognition for Smart Healthcare: A Semi-supervised Machine Learning Aaproach
 ------
 Published in International conference on artificial intelligence for communications and networks, 2019
 
@@ -51,7 +51,7 @@ In this paper, we developed a semi-supervised classifier for time series human a
 
 Publication Link: [Here](https://www.researchgate.net/profile/Abrar-Zahin/publication/334236219_Sensor-Based_Human_Activity_Recognition_for_Smart_Healthcare_A_Semi-supervised_Machine_Learning/links/5d7914de92851cacdb31c21a/Sensor-Based-Human-Activity-Recognition-for-Smart-Healthcare-A-Semi-supervised-Machine-Learning.pdf)
 
-A machine learning based framework for the smart healthcare system
+A Machine Learning based Framework for the Smart Healthcare System
 ------
 Published in Intermountain Engineering, Technology and Computing, 2020
 
