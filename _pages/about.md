@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Machine Learning Research Fellow at Mayo Clinic developing multimodal foundation models for digital pathology, combining vision transformers, clinical language models, and graph-based learning for scalable, clinically grounded AI systems. 
-
-I completed my PhD at Arizona State University, where I worked on **statistical machine learning**, **probabilistic graphical models**, and **computationally efficient learning algorithms** for large-scale structured data. I was supervised by [Professor Dr. Gautam Dasarathy](https://www.public.asu.edu/~gdasarat/index.html). My research interests are as follows: Graph Machine Learning, Multimodal Foundation Models, Diffusion Models, and Statistical Machine Learning. 
+I'm a Machine Learning Research Fellow at Mayo Clinic developing multimodal foundation models for digital pathology, combining vision transformers, clinical language models, and graph-based learning for scalable, clinically grounded AI systems. I completed my PhD at Arizona State University, where I worked on **statistical machine learning**, **probabilistic graphical models**, and **computationally efficient learning algorithms** for large-scale structured data. I was supervised by [Professor Dr. Gautam Dasarathy](https://www.public.asu.edu/~gdasarat/index.html). 
 
 Before joining Arizona State University, I obtained my MSc in Electrical Engineering from Utah State University (USU) in 2019, where I was supervised by [Professor Dr. Rose Qingyang Hu](https://engineering.usu.edu/ece/faculty-sites/rose-hu/research). I also actively worked with [Professor Dr. Le Thanh Tan](https://sites.google.com/site/thanhtantp?pli=1), who was then a post doc at USU. During my time at USU, my research was focused towards developing algorithms at the intersection of deep learning and statistical signal processing. I completed my undergraduate from Islamic University of Technology in 2014.
 
