@@ -39,7 +39,7 @@ Abrar Zahin, Rajasekhar Anguluri, Oliver Kosut, Lalitha Sankar, Gautam Dasarathy
 
 In this paper, we consider the problem of learning the structure of non tree-strucutured Gaussian graphical models when the observations are corrupted by independent but non-identically distributed noise and devised a novel algorithm that can provably learn the partial strucutre of this more general family of graphs when the generated samples are corrupted by additive noise. The algorithmic techniques introduced here could be of general interest, especially to model selection in latent variable models.
 
-Publication Link: [Here](https://ZahinAbrar.github.io/files/ICASSP_FOLk_DGM_CameraReady.pdf)RMS_GBT_TMLR__Accepted_Copy_.pdf)
+Publication Link: [Here](https://ZahinAbrar.github.io/files/RMS_GBT_TMLR__Accepted_Copy_.pdf)
 
 Sensor-based human activity recognition for smart healthcare: A semi-supervised machine learning
 ------
